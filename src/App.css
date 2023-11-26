@@ -19,7 +19,7 @@
   justify-content: center;
   align-items: center;
   background-color: #ffffff;
-  width: 40%;
+  width: 50%;
   height: 100%;
   padding: 0 5%;
   font-size: 30px;
@@ -33,7 +33,7 @@
   justify-content: center;
   align-items: center;
   background-color: black;
-  width: 60%;
+  width: 50%;
   height: 100%;
   border-radius: 4%;
 }
